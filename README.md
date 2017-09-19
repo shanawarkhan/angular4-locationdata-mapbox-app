@@ -2,7 +2,7 @@
 
 created this application to journal and display GPS routes contained .GPX files. 
 
-created from video tutorial (https://youtu.be/EHdSb279Lzg)
+created from video tutorial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
 
