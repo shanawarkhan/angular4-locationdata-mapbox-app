@@ -1,9 +1,8 @@
 # RunJournal
 
-I created this application to journal and display GPS routes contained .GPX files. 
+created this application to journal and display GPS routes contained .GPX files. 
 
-I created a video tutorial demonstrating how the initial version of this application was built:
-[Check out the video on YouTube](https://youtu.be/EHdSb279Lzg)
+created from video tutorial (https://youtu.be/EHdSb279Lzg)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
 
