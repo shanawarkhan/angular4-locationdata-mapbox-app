@@ -1,4 +1,5 @@
 # RunJournal
+# Run Tracker
 
 created this application to journal and display GPS routes contained .GPX files. 
 
